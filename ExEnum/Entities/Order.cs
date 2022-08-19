@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ExEnum.Entities.Enums;
 
 namespace ExEnum.Entities
 {
-    internal class Order
+    public class Order
     {
+
     }
 }

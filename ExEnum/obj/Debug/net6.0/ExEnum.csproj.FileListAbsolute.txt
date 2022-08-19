@@ -1,0 +1,15 @@
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\bin\Debug\net6.0\ExEnum.exe
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\bin\Debug\net6.0\ExEnum.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\bin\Debug\net6.0\ExEnum.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\bin\Debug\net6.0\ExEnum.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\bin\Debug\net6.0\ExEnum.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\obj\Debug\net6.0\refint\ExEnum.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.genruntimeconfig.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExEnum\ExEnum\obj\Debug\net6.0\ref\ExEnum.dll

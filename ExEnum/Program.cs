@@ -29,7 +29,7 @@ namespace ExEnum
             for (int i = 1; i <= n; i++)
             {
                 Console.WriteLine("Enter #{0} Item data:", i);
-                Console.Write("`Product name: ");
+                Console.Write("Product name: ");
                 string nameProduct = Console.ReadLine();
                 Console.Write("Product price: ");
                 double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -38,8 +38,8 @@ namespace ExEnum
                 Product product = new Product(nameProduct, price);
                 OrderItem item = new OrderItem(quantity, price, product);
                 order.Items.Add(item);                                
-            }            
-
+            }
+            Console.WriteLine();
             Console.WriteLine(order);
         }
     }

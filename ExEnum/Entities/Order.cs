@@ -1,6 +1,5 @@
 ﻿using ExEnum.Entities.Enums;
 using System.Globalization;
-using System.Collections.Generic;
 using System.Text;
 
 namespace ExEnum.Entities
@@ -36,7 +35,7 @@ namespace ExEnum.Entities
             double sum = 0;
             foreach (OrderItem obj in Items) 
             {
-                sum =+ obj.SubTotal();
+                sum += obj.SubTotal();
             }
             return sum;
         }
@@ -44,9 +43,9 @@ namespace ExEnum.Entities
         {
             StringBuilder summary = new StringBuilder();
             summary.AppendLine("ORDER SUMMARY:");
-            summary.AppendLine("Order Momment: " + DateTime.Now.ToString("dd/MM/yyy HH:mm:ss"));
+            summary.AppendLine("Order Momment: " + DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss"));
             summary.AppendLine("Order status: " + Status);
-            summary.AppendLine("Client: " + Client + " " + Client.BirthDate + " - " + Client.Email);
+            summary.AppendLine("Client: " + Client.Name + " " + Client.BirthDate.ToString("dd/MM/yyyy") + " - " + Client.Email);
             summary.AppendLine("Order Items");
             foreach (OrderItem item in Items) 
             {
